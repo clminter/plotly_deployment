@@ -1,0 +1,43 @@
+body {
+
+  color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.jumbotron {
+  background-image: url('../microscopic-image-bacteria.jpg');
+  background-size: 100% 100%;
+  opacity: 0.8;
+  text-align: center;
+  color: rgb(240, 253, 255);
+  
+  
+} 
+
+.well {
+background-color: rgb(220, 228, 227);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: 90;
+font-size: smaller;
+
+
+}
+
+.panel {
+  background-color: rgb(220, 228, 227);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 90;
+  
+    }
+
+
+#common {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: 90;
+font-size: medium;
+background-color: whitesmoke;
+}
+
+
+
+
